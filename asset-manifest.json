@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/valarie-regas-website-2021/static/css/main.38ab968c.chunk.css",
+    "main.js": "/valarie-regas-website-2021/static/js/main.54f59591.chunk.js",
+    "main.js.map": "/valarie-regas-website-2021/static/js/main.54f59591.chunk.js.map",
+    "runtime-main.js": "/valarie-regas-website-2021/static/js/runtime-main.08a3d990.js",
+    "runtime-main.js.map": "/valarie-regas-website-2021/static/js/runtime-main.08a3d990.js.map",
+    "static/js/2.155bc3e9.chunk.js": "/valarie-regas-website-2021/static/js/2.155bc3e9.chunk.js",
+    "static/js/2.155bc3e9.chunk.js.map": "/valarie-regas-website-2021/static/js/2.155bc3e9.chunk.js.map",
+    "static/js/3.558d9a05.chunk.js": "/valarie-regas-website-2021/static/js/3.558d9a05.chunk.js",
+    "static/js/3.558d9a05.chunk.js.map": "/valarie-regas-website-2021/static/js/3.558d9a05.chunk.js.map",
+    "index.html": "/valarie-regas-website-2021/index.html",
+    "static/css/main.38ab968c.chunk.css.map": "/valarie-regas-website-2021/static/css/main.38ab968c.chunk.css.map",
+    "static/js/2.155bc3e9.chunk.js.LICENSE.txt": "/valarie-regas-website-2021/static/js/2.155bc3e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08a3d990.js",
+    "static/js/2.155bc3e9.chunk.js",
+    "static/css/main.38ab968c.chunk.css",
+    "static/js/main.54f59591.chunk.js"
+  ]
+}
